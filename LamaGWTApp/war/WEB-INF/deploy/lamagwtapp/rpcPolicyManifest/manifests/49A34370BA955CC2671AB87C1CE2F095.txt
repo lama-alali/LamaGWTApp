@@ -1,0 +1,2 @@
+serviceClass: lama.gwt.app.client.GreetingService
+path: 4DA9EF297137CE43F85A4DB3F6DDEBD4.gwt.rpc
